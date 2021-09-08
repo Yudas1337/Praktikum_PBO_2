@@ -1,18 +1,26 @@
-## Getting Started
+### Praktikum PBO 2
+This is the second repository from PBO Practice in State Polytechnic of Malang. It is coded with Java Programming language.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- 📝 Pdf filename :[2C_25_Yudas Malabi.pdf](https://github.com/Yudas1337/Praktikum_PBO_2/blob/master/2C_25_Yudas%20Malabi.pdf)
+### Class Structure :
+<ul>
+<li>Practicum 1 : design 4 class diagram</li>
+  <ul>
+<li>Peminjaman Class</li>
+<li>Member Class</li>
+<li>VideoGame Class</li>
+<li>Main Class</li>
+</ul>
+<br>
+<li>Practicum 2 : Implements the program from class diagram in practicum 1 using java</li>
+<li>Practicum 3 : Implements program about calculate the area and circumference of a circle </li>
+<li>Practicum 4 : Implements program about cashier calculation program </li>
+</ul>
 
-## Folder Structure
+### Technologies :
+<ul>
+<li>Java Object Oriented Programming</li>
+<li>IDE : Visual Studio Code with java plugins for compiler</li>
+</ul>
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Credits : Yudas Malabi 😄✌️
