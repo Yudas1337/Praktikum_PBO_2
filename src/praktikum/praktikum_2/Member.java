@@ -5,7 +5,7 @@ package praktikum.praktikum_2;
 | Member Class
 |--------------------------------------------------------------------------
 |
-| Create VideoGame Class.
+| Create Member Class.
 | @author Yudas Malabi
 |
 */
