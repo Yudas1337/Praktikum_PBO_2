@@ -1,5 +1,14 @@
 package praktikum.praktikum_4;
 
+/*
+|--------------------------------------------------------------------------
+| Main Class
+|--------------------------------------------------------------------------
+|
+| Create Main Class.
+| @author Yudas Malabi
+|
+*/
 public class Main {
 
     public static void main(String[] args) {
